@@ -1,0 +1,58 @@
+#bg{
+    background-size: cover;
+}
+
+#heading{
+    background-color: rgb(255, 221, 67);
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 68, 255);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+}
+
+.btn_1{
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading_2{
+    background-color: rgb(255, 221, 67);
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 30px;
+}
+
+#obj_name{
+    font-weight: lighter;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#input_1{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 15px 15px 20px rgb(255, 0, 0);
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 10px;
+    border-top-color: rgb(255, 0, 0);
+    margin-top: 350px;
+    border-bottom-color: rgb(250, 0, 0);
+}
